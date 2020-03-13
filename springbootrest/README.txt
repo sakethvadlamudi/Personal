@@ -1,4 +1,10 @@
 
+Path to main class containing APIs:
+
+springbootrest/src/main/java/com/cashfree/BankingResource.java
+
+
+
 Assumptions:
 
 1)data is clean 
